@@ -1,2 +1,2 @@
 Hello Git
-wo and you
+wo & you
